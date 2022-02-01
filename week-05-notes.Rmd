@@ -1,0 +1,250 @@
+---
+title: "Week-05-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview Video
+
++ "What's good for people is good for business" (Ate Mel)
++ "Teams can and should take care of themselves" (Ate Mel)
++ " model based on taking care of its people and building community" (Ate Mel)
+
+
+# Conflict Management Video
+
++ Conflict comes at workplace and at home
++ Do I like conflict?
+
+    1. DO I thrive on conflict?
+    2. Do I avoid conflict?
+    3. Do I manage conflict?
+    
++ Areas of conflict:
+    
+    + Personality differences
+    + language barriers
+    + Age differences
+    + Different energy levels
+    + different opinions
+    
++ Conflict Management Behavioral Responses:
+
+    + Competing (I win, you lose)
+    + Avoiding (lose / lose)
+        + both parties are avoiding
+    + Compromising (win some / lost some)
+    + Accommodating (you win / I lose)
+        + I'm avoiding and you win
+    + Collaborating (win / win)
+    
++ Assertiveness - focus on my needs
++ Cooperatives - focus on our needs
+
++ Questions to resolve conflict: 
+
+    1. What more do I need to learn and understand about the situation?
+    2. What do I need to learn and understand about the other people in the story?
+    3. What do I need to learn and understand about myself?
+    
++ conflict will always come up in both work and home
+
+
+# Psychological Safety -- Google and Project Aristotle
+
++ Psych safety: A sense of confidence that the team will not embarrass, reject, or punish someone for speaking up.
++ most work these days are team-based 
++ working in teams increases: 
+    
+    + creativity
+    + Quality
+    + performance
+    + employee satisfaction
+    
++ effective teams is all about **TEAM NORMS**
+
+2 behaviors that all good teams share:
+
+1. Equality in distribution of conversational turn taking
+
+    + everyone has equal chance and opportunity to speak up
+    
+2. Average social sensibility
+
+    + sense how others feel
+    
+Key norms to psychological safety
+
++ belief that it is safe to take risks
++ no fear of being humiliated for taking a risk
++ focuse on a belief about a group norm
+
+Creating a psych safe environment
+
++ vulnerability
++ empathy
++ create and understand boundaries
++ asking questions
++ not defending
++ effective apologizing - there's rarely a time when apologizing is not important
+
+**WHAT IS THE DIFFERENCE BETWEEN TRUST AND PSYCHOLOGICAL SAFETY?**
+**does psychological safety apply to relationships between companies and communities and other stakeholders?**
+
+# Building Teams
+
+Leading Through Culture
+
++ "hire these types of people to assemble the best teams"
+
+    + hire for talent, intelligence and experience (SMEs)
+    + hire people who *complement* (not compliment) you
+        + you need performers, not friends
+        + provide balance to your skillset
+    + hire for emotional intelligence
+        + independent people to handle their business on their own
+    + hire for values
+        + match what you believe in
+        + aka "personality fit"
+        + don't care about your credentials, I'm interested in who you are as a person
+    + hire for core capabilities, not just previous job title
+    + hire for diversity
+        + conformity drives out creative and talented people
+
++ making dumb groups smarter
+
+    + 4 issues with groups: 
+        1. Groups don't correct members' errors, them **AMPLIFY** them
+        2. **CASCADE EFFECT** - agreeing with statements and actions of those who went first
+        3. **POLARIZED** - taking even more-extreme positions than when individuallyl
+        4. **WHAT EVERYBODY KNOWS** - focusing on the common knowledge and ignoring critical information that only 1 or 2 members have
+
+# Building the Perfect Team with Google
+
++ team dynamics of feeling the constant need to prove yourself puts people on edge
++ power struggle of the "leader" label and representative for the group
++ acceptance - "we all felt like we could say anything to each other" 
++ 1:1 meetings were friendly and warm with those from her toxic study group
+    
+    + only when they gathered as a team is when they would fight
+    
++ "employee performance optimization" isn't enough!
++ if a company wants to outstrip its competitors, it needs to influence not only how people work but also how they work *together*
++ most productive employees build larger networks by rotating dining companions - NEVER EAT ALONE! 
++ good communication and avoiding micromanaging is critical to being a great manager
++ Norms: 
+
+    + traditions, behavioral standards, and unwritten rules that govern how we function when we gather
+    + override individual tempraments and encourage putting the team in front of the individual
+    + the right norms could raise a group's collective intelligence
+
+
++ Project Aristotle research conclusion: 
+
+    + understanding and influencing group norms were the keys to improving teams
+
++ "the only ting worse than not finding a pattern is finding too many of them"
++ Working in teams - you have a "collective IQ" which is distinct from the intelligence of any single member
++ what distinguishes the "good" teams from the "dysfunctional" groups was **HOW TEAMMATES TREATED ONE ANOTHER**
++ good teams: 
+
+    1. members speak in roughly the same proportion
+        + "equality in distribution of conversational turn-taking"
+        + "as long as everyone got a chance to talk, the team did well"
+        + "if only one person or a small group spoke all the time, the collective intelligence declines" 
+        + there are exchanges of the kind of personal information that lets teammates pick up on what people are feeling or leaving unsaid
+    2. all members have a high "average social sensitivity"
+        + being skilled at sensing how other felt based on their tone of voice, expressions, and non-verbal cues
+        + "reading the mind in the eyes" test
+        + the sum will be greater than its parts
+        
++ psychological safety: 
+
+    + a shared belief held by members of a team that the team is safe for interpersonal risk-taking
+    + the team will not embarrass, reject, or punish someone for speaking up
+    + team has interpersonal trust and mutual respect in which people are comfortable being their full and authentic themselves
+    1. conversational turn-taking
+    2. average social sensitivity
+
++ Communication & Empathy - building blocks of forging real connections
++ the best teams: members listen to one another and show sensitivity to feelings and needs
++ Team B: the usefulness of imperfection
+        
+
+# Managing a Global Team: Greg James at Sun Microsystems, Inc. (A) 
+
+Tsedal Neeley, Thomas J. Delong, 15 July 2020
+
+
+
+
+# Making Dumb Groups Smarter 
+
+Cass R. Sunstein and Reid Hastie, December 2014
+
++ informational cascade: 
+
+    + people silence themselves out of deference to the information conveyed by others
+    
++ repuatational cascade:
+
+    + Group members think they know what is right, but they nonetheless go along with the group in order to maintain the good opinion of others
+    
++ heuristics can lead people astray and are subject to biases
++ heuristics: 
+
+    + DEFINITION HERE
+    
++ polarization is common with deliberating groups
++ group deliberation produced a systematic "risky shift"
++ Likelihood of risky shift - when members are initially disposed toward risk taking
++ Likelihood of cautius shift - when members are initially disposed toward caution
++ Arguments in any group with an initial predisposition will inevitably be skewed in the direction of that predisposition
++ deliberation will naturally lead people toward a more extreme point in line with twhat they initially believed
++ reputation - people want to be viewed positively by other group members
++ when people lack confidence, they tend to be moderate
++ Common information has a disproportionately large impact on discussions and conclusions
+
+Making groups wiser:
+
+1. Silence the leader
+
+    + By expressing their own views early, they discourage disagreement. Everyone wants to agree with the boss
+    + leaders should ask for candid opinions and model an open mind
+    
+2. "Prime" critical thinking
+
+    + When people are given a "getting along" task, they shut up
+    + when people are given a "critical thinking" task, they will disclose what they know
+    + at the outset, set the tone of encouraging information disclosure to minimize self-silencing
+    
+3. Reward group success
+
+    + identification with the group's success is more likely to ensure that people will say what they know, regardless of whether it fits "the party line"
+    
+4. Assign roles 
+
+5. Appoint a devil's advocate
+
+    + urge a position that is contrary to the group's inclination
+    + don't let the group know the devil's advocate was planted. 
+    + Authentic dissent and a formal requirement of devil's advocate cause different reactions within a group
+    
+6. Establish contrarian teams
+
+    + "Red Team" - try to defeat the primary team or construct the strongest possible case against a proposal or a plan
+
+7. the Delphi method
+
+    + anonymity insulates group members from reputational pressures and thus reduces the problem of self-silencing
+    
