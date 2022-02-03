@@ -16,9 +16,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Overview Video
 
++ Pyschological safety leads to team buliding which leads to fostering relationships
+
+
 + "What's good for people is good for business" (Ate Mel)
 + "Teams can and should take care of themselves" (Ate Mel)
 + " model based on taking care of its people and building community" (Ate Mel)
++ create "get well plan" for Greg James
++ specific recommendations that Greg can do to resolve the issues
++ apply ALL reading material (especially current week's readings)
++ hit the highlights and compare to rubric prior to submitting. 
 
 
 # Conflict Management Video
